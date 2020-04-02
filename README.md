@@ -1,2 +1,1 @@
-# DarkMode
-DarkMode Extension
+<p align="center"> Dark Mode Extension <p> 
