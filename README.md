@@ -3,7 +3,9 @@
 </h1>
 
 
-##  Tecnologias
+ ## This project it's based on this github app [ideia](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/Chrome-Theme-Extension.md).
+
+#  Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
